@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "Y:\\Skola\\OOP\\Skolarbete\\LiA\\FirstReact\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C923B3A5-0725-45A9-BAFB-47C16F3862DE}|FirstReact.Server\\FirstReact.Server.csproj|y:\\skola\\oop\\skolarbete\\lia\\firstreact\\firstreact.server\\firstreact.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C923B3A5-0725-45A9-BAFB-47C16F3862DE}|FirstReact.Server\\FirstReact.Server.csproj|solutionrelative:firstreact.server\\firstreact.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstReact.Server",
+              "DocumentMoniker": "Y:\\Skola\\OOP\\Skolarbete\\LiA\\FirstReact\\FirstReact.Server\\FirstReact.Server.csproj",
+              "RelativeDocumentMoniker": "FirstReact.Server\\FirstReact.Server.csproj",
+              "ToolTip": "Y:\\Skola\\OOP\\Skolarbete\\LiA\\FirstReact\\FirstReact.Server\\FirstReact.Server.csproj",
+              "RelativeToolTip": "FirstReact.Server\\FirstReact.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T21:29:09.536Z",
+              "EditorCaption": ""
             }
           ]
         }

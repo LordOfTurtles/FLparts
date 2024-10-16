@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4RWSslhRPimfyvBAAsIKVc+rAieK0HWNmMeEGx2C9gI=",
+  "Hash": "0YiSJRqt0uheeMddglHVOt/nxSz1rIAVDr/cqh8E700=",
   "Source": "FirstReact.Server",
   "BasePath": "_content/FirstReact.Server",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "firstreact.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     }
   ],
