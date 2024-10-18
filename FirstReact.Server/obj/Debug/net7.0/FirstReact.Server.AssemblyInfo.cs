@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FirstReact.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2b46052ad505a3399a2c30253150330cc3faf6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0665afe8e36b81a31eab218c72ed547df05d84bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirstReact.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirstReact.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

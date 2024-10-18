@@ -3,5 +3,5 @@ import Button from '@mui/material/Button';
 
 
 export default function ButtonUsage() {
-    return <Button variant="contained">Hello world</Button>;
+    return <Button variant="outlined" size="medium" >Hello world</Button>;
   }
