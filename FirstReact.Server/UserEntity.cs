@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace FirstReact.Server
+namespace FirstReact
 {
     public class User
     {

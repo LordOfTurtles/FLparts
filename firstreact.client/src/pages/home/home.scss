@@ -1,0 +1,10 @@
+
+@import '../../mixins';
+.home {
+    @include main-style();
+
+    h1 {
+        color: #0000ff;
+        margin-bottom: 2rem;
+    }
+}

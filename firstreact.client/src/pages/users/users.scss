@@ -1,0 +1,4 @@
+@import '../../mixins';
+.users {
+    @include main-style();
+}
