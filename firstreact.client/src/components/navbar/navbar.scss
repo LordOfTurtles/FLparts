@@ -3,13 +3,18 @@
 .navbar {
     width: 100%;
     height: 70px;
-    background-color: rgb(20, 4, 48);
+    background-color: rgb(40, 74, 33);
     color: #fff;
     padding: 0 3rem;
     @include d-flex(row, space-between, center);
 
     .users {
-        color: #fff;
+        @include d-flex(row, flex-start, center);
+        color: #d9d9d9;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 200%;
+        text-align: left;
+        text-shadow: 1px 1px 2px black;
     }
 
     .hamburger {
@@ -26,7 +31,7 @@
 
             li {
                 a {
-                    color: #fff;
+                    color: #d9d9d9;
                 }
             }
         }

@@ -5,7 +5,7 @@ import {Link} from "react-router-dom"
 const Navbar: React.FC = () => {
     return (
         <div className="navbar">
-            <div className="users">Users</div>
+            <div className="users">FLparts test</div>
             <div className="hamburger">
                 <Menu />
             </div>
