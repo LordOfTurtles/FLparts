@@ -1,4 +1,23 @@
 @import '../../mixins';
 .users {
     @include main-style();
+
+    .table-wrapper {
+        width: 100%;
+        overflow-x: auto;
+        border: 1px solid #afaeaaaf;
+        box-shadow: 0 0 30px 2px #afaeaaaf;
+        padding: 1rem;
+        border-radius: 12px;
+
+        table {
+            width: 100%;
+
+            td, th {
+                border: 1px solid #c3c3c3;
+                border-radius: 6px;
+                text-align: center;
+            }
+        }
+    }
 }
